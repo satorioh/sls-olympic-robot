@@ -1,0 +1,17 @@
+{
+  "name": "olympic-robot",
+  "version": "1.0.0",
+  "description": "**中文** | [English](./README_EN.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compress-images": "^1.9.9",
+    "md5-file": "^5.0.0",
+    "pngquant-bin": "^6.0.0"
+  }
+}
